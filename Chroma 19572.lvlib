@@ -39,6 +39,8 @@ Type: GB Tester</Property>
 			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Reset.vi"/>
 			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Revision Query.vi"/>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Self-Test.vi"/>
+			<Item Name="Add Line Feed.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Add Line Feed.vi"/>
+			<Item Name="ms Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/ms Delay.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/dir.mnu"/>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Close.vi"/>
