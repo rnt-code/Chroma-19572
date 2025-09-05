@@ -28,6 +28,23 @@ Type: GB Tester</Property>
 			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Stop.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
+			<Item Name="IEEE 488.2" Type="Folder">
+				<Item Name="Configure CLS.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure CLS.vi"/>
+				<Item Name="Configure ESE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure ESE query.vi"/>
+				<Item Name="Configure ESE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure ESE.vi"/>
+				<Item Name="Configure ESR query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure ESR query.vi"/>
+				<Item Name="Configure IDN query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure IDN query.vi"/>
+				<Item Name="Configure OPC query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure OPC query.vi"/>
+				<Item Name="Configure OPC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure OPC.vi"/>
+				<Item Name="Configure PSC query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure PSC query.vi"/>
+				<Item Name="Configure PSC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure PSC.vi"/>
+				<Item Name="Configure RCL.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure RCL.vi"/>
+				<Item Name="Configure RST.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure RST.vi"/>
+				<Item Name="Configure SAV.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure SAV.vi"/>
+				<Item Name="Configure SRE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure SRE query.vi"/>
+				<Item Name="Configure SRE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure SRE.vi"/>
+				<Item Name="Configure STB query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure STB query.vi"/>
+			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
