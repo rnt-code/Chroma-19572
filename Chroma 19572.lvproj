@@ -6,6 +6,9 @@
 		<Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="19572 Initialize with retry.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Examples/19572 Initialize with retry.vi"/>
+		</Item>
 		<Item Name="Chroma 19572.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Chroma 19572/Chroma 19572.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
