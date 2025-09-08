@@ -45,6 +45,15 @@ Type: GB Tester</Property>
 				<Item Name="Configure SRE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure SRE.vi"/>
 				<Item Name="Configure STB query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure STB query.vi"/>
 			</Item>
+			<Item Name="System" Type="Folder">
+				<Item Name="System Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Error Query.vi"/>
+				<Item Name="System Klock Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Klock Query.vi"/>
+				<Item Name="System Klock.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Klock.vi"/>
+				<Item Name="System Lock Owner Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Owner Query.vi"/>
+				<Item Name="System Lock Release.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Release.vi"/>
+				<Item Name="System Lock Request.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Request.vi"/>
+				<Item Name="System SCPI Version Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System SCPI Version Query.vi"/>
+			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
@@ -59,6 +68,9 @@ Type: GB Tester</Property>
 				<Item Name="Memory Location by Name query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Memory/Memory Location by Name query.vi"/>
 				<Item Name="Memory Name by Location query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Memory/Memory Name by Location query.vi"/>
 				<Item Name="Memory Storage Capacity query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Memory/Memory Storage Capacity query.vi"/>
+			</Item>
+			<Item Name="Type Def" Type="Folder">
+				<Item Name="steps--numeric.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Type Def/steps--numeric.ctl"/>
 			</Item>
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Utility.mnu"/>
 			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Error Query.vi"/>
