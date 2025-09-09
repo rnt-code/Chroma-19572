@@ -26,6 +26,10 @@ Type: GB Tester</Property>
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Action-Status.mnu"/>
 			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Start.vi"/>
 			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Stop.vi"/>
+			<Item Name="Source Step Delete.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Step Delete.vi"/>
+			<Item Name="Source Status query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Status query.vi"/>
+			<Item Name="Source Offset.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Offset.vi"/>
+			<Item Name="Source Offset query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Offset query.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="IEEE 488.2" Type="Folder">
@@ -46,18 +50,22 @@ Type: GB Tester</Property>
 				<Item Name="Configure STB query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure STB query.vi"/>
 			</Item>
 			<Item Name="System" Type="Folder">
-				<Item Name="System Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Error Query.vi"/>
-				<Item Name="System Klock Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Klock Query.vi"/>
+				<Item Name="System Error query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Error query.vi"/>
+				<Item Name="System Klock query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Klock query.vi"/>
 				<Item Name="System Klock.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Klock.vi"/>
-				<Item Name="System Lock Owner Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Owner Query.vi"/>
+				<Item Name="System Lock Owner query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Owner query.vi"/>
 				<Item Name="System Lock Release.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Release.vi"/>
 				<Item Name="System Lock Request.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Request.vi"/>
-				<Item Name="System SCPI Version Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System SCPI Version Query.vi"/>
+				<Item Name="System SCPI Version query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System SCPI Version query.vi"/>
 			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Data.mnu"/>
+			<Item Name="Source Step Number query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Step Number query.vi"/>
+			<Item Name="Source Settings per Step query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Settings per Step query.vi"/>
+			<Item Name="Source Mode query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Mode query.vi"/>
+			<Item Name="Source Fetch query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Fetch query.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Memory" Type="Folder">
