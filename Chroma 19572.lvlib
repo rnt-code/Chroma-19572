@@ -61,6 +61,20 @@ Type: GB Tester</Property>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
+			<Item Name="Results" Type="Folder">
+				<Item Name="Result All Modes.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result All Modes.vi"/>
+				<Item Name="Result All Steps Elapsed Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result All Steps Elapsed Time.vi"/>
+				<Item Name="Result All Steps Judgement Codes.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result All Steps Judgement Codes.vi"/>
+				<Item Name="Result All Steps Measure Meter Readings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result All Steps Measure Meter Readings.vi"/>
+				<Item Name="Result All Steps Output Meter Readings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result All Steps Output Meter Readings.vi"/>
+				<Item Name="Result Completed.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Completed.vi"/>
+				<Item Name="Result Last Step Judgement Code.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Last Step Judgement Code.vi"/>
+				<Item Name="Result Last Step Measure Meter Reading.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Last Step Measure Meter Reading.vi"/>
+				<Item Name="Result Last Step Output Meter Reading.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Last Step Output Meter Reading.vi"/>
+				<Item Name="Result Step Jugement Code.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Step Jugement Code.vi"/>
+				<Item Name="Result Step Measure Meter Reading query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Step Measure Meter Reading query.vi"/>
+				<Item Name="Result Step Output Meter Reading query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Results/Result Step Output Meter Reading query.vi"/>
+			</Item>
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Data.mnu"/>
 			<Item Name="Source Step Number query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Step Number query.vi"/>
 			<Item Name="Source Settings per Step query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Data/Source Settings per Step query.vi"/>
