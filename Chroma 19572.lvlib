@@ -24,6 +24,7 @@ Type: GB Tester</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Action-Status.mnu"/>
+			<Item Name="Source GBSS MODE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source GBSS MODE query.vi"/>
 			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Start.vi"/>
 			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Stop.vi"/>
 			<Item Name="Source Step Delete.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Step Delete.vi"/>
