@@ -145,6 +145,7 @@ Type: GB Tester</Property>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Self-Test.vi"/>
 			<Item Name="Add Line Feed.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Add Line Feed.vi"/>
 			<Item Name="ms Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/ms Delay.vi"/>
+			<Item Name="Get Instrument ID.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Get Instrument ID.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/dir.mnu"/>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Close.vi"/>
