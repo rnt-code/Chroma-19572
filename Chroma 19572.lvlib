@@ -90,6 +90,16 @@ Type: GB Tester</Property>
 				<Item Name="System Lock Request.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System Lock Request.vi"/>
 				<Item Name="System SCPI Version query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/System/System SCPI Version query.vi"/>
 			</Item>
+			<Item Name="Test Parameters" Type="Folder">
+				<Item Name="Configure GB High Limit Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB High Limit Query.vi"/>
+				<Item Name="Configure GB High Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB High Limit.vi"/>
+				<Item Name="Configure GB Level query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Level query.vi"/>
+				<Item Name="Configure GB Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Level.vi"/>
+				<Item Name="Configure GB Low Limit Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Low Limit Query.vi"/>
+				<Item Name="Configure GB Low Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Low Limit.vi"/>
+				<Item Name="Configure GB Test Time Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Test Time Query.vi"/>
+				<Item Name="Configure GB Test Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Test Parameters/Configure GB Test Time.vi"/>
+			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
