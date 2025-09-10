@@ -32,6 +32,38 @@ Type: GB Tester</Property>
 			<Item Name="Source Offset query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Action-Status/Source Offset query.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
+			<Item Name="Presets" Type="Folder">
+				<Item Name="Preset FAIL CONTINUITY query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset FAIL CONTINUITY query.vi"/>
+				<Item Name="Preset FAIL CONTINUITY.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset FAIL CONTINUITY.vi"/>
+				<Item Name="Preset GB FREQ query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset GB FREQ query.vi"/>
+				<Item Name="Preset GB FREQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset GB FREQ.vi"/>
+				<Item Name="Preset GB VOLTAGE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset GB VOLTAGE query.vi"/>
+				<Item Name="Preset GB VOLTAGE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset GB VOLTAGE.vi"/>
+				<Item Name="Preset LOT NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset LOT NUMBER query.vi"/>
+				<Item Name="Preset LOT NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset LOT NUMBER validator.vi"/>
+				<Item Name="Preset LOT NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset LOT NUMBER.vi"/>
+				<Item Name="Preset PART NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset PART NUMBER query.vi"/>
+				<Item Name="Preset PART NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset PART NUMBER validator.vi"/>
+				<Item Name="Preset PART NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset PART NUMBER.vi"/>
+				<Item Name="Preset PASS HOLD time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset PASS HOLD time query.vi"/>
+				<Item Name="Preset PASS HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset PASS HOLD time.vi"/>
+				<Item Name="Preset SCREEN query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SCREEN query.vi"/>
+				<Item Name="Preset SCREEN.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SCREEN.vi"/>
+				<Item Name="Preset SERIAL NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SERIAL NUMBER query.vi"/>
+				<Item Name="Preset SERIAL NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SERIAL NUMBER validator.vi"/>
+				<Item Name="Preset SERIAL NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SERIAL NUMBER.vi"/>
+				<Item Name="Preset SMART KEY query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SMART KEY query.vi"/>
+				<Item Name="Preset SMART KEY.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SMART KEY.vi"/>
+				<Item Name="Preset SOFT. AGC query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SOFT. AGC query.vi"/>
+				<Item Name="Preset SOFT. AGC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset SOFT. AGC.vi"/>
+				<Item Name="Preset START WAIT Time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset START WAIT Time query.vi"/>
+				<Item Name="Preset START WAIT Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset START WAIT Time.vi"/>
+				<Item Name="Preset STEP HOLD time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset STEP HOLD time query.vi"/>
+				<Item Name="Preset STEP HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset STEP HOLD time.vi"/>
+				<Item Name="Preset TIME JUDGment query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset TIME JUDGment query.vi"/>
+				<Item Name="Preset TIME JUDGment.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Preset TIME JUDGment.vi"/>
+				<Item Name="Presets.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/Presets/Presets.mnu"/>
+			</Item>
 			<Item Name="IEEE 488.2" Type="Folder">
 				<Item Name="Configure CLS.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure CLS.vi"/>
 				<Item Name="Configure ESE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Configure/IEEE 488.2/Configure ESE query.vi"/>
@@ -93,6 +125,7 @@ Type: GB Tester</Property>
 			</Item>
 			<Item Name="Type Def" Type="Folder">
 				<Item Name="steps--numeric.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Type Def/steps--numeric.ctl"/>
+				<Item Name="Preset Number States--enum.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Type Def/Preset Number States--enum.ctl"/>
 			</Item>
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Utility.mnu"/>
 			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19572/Public/Utility/Error Query.vi"/>
